@@ -1,5 +1,3 @@
-## Hi !
-
 ![obito](img/obito.jpg)
 
 <!--
